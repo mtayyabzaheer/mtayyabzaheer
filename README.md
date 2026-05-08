@@ -1,4 +1,4 @@
-<img width="1409" height="193" alt="image" src="https://github.com/user-attachments/assets/40be627c-8c75-4863-97f7-1cfcf7a84c0a" /><h1 align="center">Hi there, I'm Mohammad Tayyab Zaheer 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad Tayyab Zaheer 👋</h1>
 
 <p align="center">
   <b>Graphic Designer · Motion Graphics Designer · UI/UX & Amazon Listing Specialist</b><br/>
